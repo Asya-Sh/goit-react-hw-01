@@ -1,0 +1,24 @@
+.title {
+    background-color: #000000;
+    color: rgb(250, 250, 250);
+}
+.wrapper {
+    margin-top: 50px;
+
+    width: 450px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+    background-color: #000000;
+    padding: 5px;
+    border: 1px solid #000000;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid #000000;
+    text-align: center;
+}
